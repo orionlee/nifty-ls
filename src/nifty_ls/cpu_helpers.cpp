@@ -4,7 +4,7 @@
  * of array-wise as occurs in Numpy.
  */
 
-//for compatibility with Windows + MinGW build.
+// for compatibility with Windows + MinGW build.
 #ifndef _USE_MATH_DEFINES
 #define _USE_MATH_DEFINES
 #endif
